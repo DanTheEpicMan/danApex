@@ -22,6 +22,11 @@ I use Manjaro personally but setting to the top should be similar and if not the
 left click on the terminal
 6. a set option that says something like "always on top" 
 7. if this does not work then don't be in fullscreen
+<br />
+<br />
+
+if an error about x11 happens do:
+>sudo apt install libx11-dev
 
 **CONFIGURATION**
 
