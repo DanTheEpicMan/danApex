@@ -1,8 +1,8 @@
-Video Explanation of Install, Configuration, and Explanation
+Video Explanation of Install, Configuration, and Explanation (add later)
 Table of Contents:
 1. Install
 2. Configuration
-3. Explanation
+3. Planned Updates
 <br />
 
 **INSTALL**
@@ -114,4 +114,5 @@ float deadZone = 0.001;
 
 **Explanation of the Code:**
 
-Link to video were its done: 
+Minor impovements to code logic.
+Weapon and object glow
