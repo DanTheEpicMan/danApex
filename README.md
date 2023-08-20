@@ -8,7 +8,7 @@ Table of Contents:
 **INSTALL**
 
 The install instruction is going to be the same as myapex (https://github.com/arturzxc/myapex). This should work for any distro but if you are downloading Linux just to use this cheat or any other I would recommend Ubuntu, Manjaro, or Arch with use the archinstall script.
-1. git clone this repository 
+1. >git clone https://github.com/DanTheEpicMan/danApex.git
 2. >cd myapex
 3. compile with
 >g++ Main.cpp -lX11
