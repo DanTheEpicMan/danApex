@@ -13,7 +13,7 @@ The install instruction is going to be the same as myapex (https://github.com/ar
 3. compile with
 >g++ Main.cpp -lX11
 4. run apex
-5.run
+5.run <br />
 > sudo ./a.out
 
 <br />
