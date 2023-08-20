@@ -13,7 +13,9 @@ The install instruction is going to be the same as myapex (https://github.com/ar
 3. compile with
 >g++ Main.cpp -lX11
 4. run apex
-5.> sudo ./a.out
+5.run
+> sudo ./a.out
+
 <br />
 Here is where the install differs slightly, once in the game you will notice that all of the text that was printed out to the terminal is now gone and replaced by a menu. I would recommend setting this window to the top because there are a couple of values that are easier to keep track of like that
 I use Manjaro personally but setting to the top should be similar and if not then Google/Chat-GPT it. 
