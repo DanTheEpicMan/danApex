@@ -583,6 +583,12 @@ int main() {
                 continue;
             }
 
+            //checks if the player is downed
+            short result = mem::ReadShort(basePointer + offsets::BLEEDOUT_STATE);
+            if (result > 0) {
+                timesLooped++;
+                continue;
+            }
 
             //If you know what your doing, this is for debugging: std::cout << "pitchAngleDeltaAbs: " << pitchAngleDeltaAbs <<  " angleDeltaAbs: " << angleDeltaAbs << std::endl;
             //this will be used to determin if we should skip this entity based on the FOV
