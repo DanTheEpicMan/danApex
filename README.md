@@ -1,4 +1,7 @@
 Video Explanation of Install, Configuration, and Explanation (add later)
+<br />
+https://www.unknowncheats.me/forum/apex-legends/597566-danapex-impoved-linux-glow-aimbot-anti-recoil.html
+<br />
 Table of Contents:
 1. Install
 2. Configuration
